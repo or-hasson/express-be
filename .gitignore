@@ -1,0 +1,6 @@
+node_modules
+.env
+.idea
+yarn.lock
+yarn-error.log
+bin
